@@ -1,5 +1,5 @@
 # SearchEngine
-inverted index search implementation
+simple search implementation | inverted index | ranking with tfidf 
 ## Requirements
 
 I'm using Python 3.8 , no library dependency
